@@ -1,3 +1,3 @@
-FROM centos:centos7
+FROM rhel7:rhel
 USER root
 CMD while true; do sleep 1; done
