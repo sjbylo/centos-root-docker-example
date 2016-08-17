@@ -1,3 +1,3 @@
-FROM rhel7:rhel
+FROM rhel:rhel7
 USER root
 CMD while true; do sleep 1; done
